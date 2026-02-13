@@ -1,0 +1,608 @@
+work_year,Experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,company_location,company_size
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,70000,EUR,79833,DE,DE,L
+2020,Senior-level,Full-Time,Machine Learning Developer,260000,USD,260000,JP,JP,S
+2020,Senior-level,Full-Time,Data Entry-levelgineer,85000,GBP,109024,GB,GB,M
+2020,Mid-level,Full-Time,Data Analyst,20000,USD,20000,HN,HN,S
+2020,Senior-level,Full-Time,Machine Learning Developer,150000,USD,150000,US,US,L
+2020,Entry-level,Full-Time,Data Analyst,72000,USD,72000,US,US,L
+2020,Senior-level,Full-Time,Data SciEntry-leveltist,190000,USD,190000,US,US,S
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,11000000,HUF,35735,HU,HU,L
+2020,Mid-level,Full-Time,Data Analyst,135000,USD,135000,US,US,L
+2020,Senior-level,Full-Time,Data Entry-levelgineer,125000,USD,125000,NZ,NZ,S
+2020,Entry-level,Full-Time,Data SciEntry-leveltist,45000,EUR,51321,FR,FR,S
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,3000000,INR,40481,IN,IN,L
+2020,Entry-level,Full-Time,Data SciEntry-leveltist,35000,EUR,39916,FR,FR,M
+2020,Mid-level,Full-Time,Data Analyst,87000,USD,87000,US,US,L
+2020,Mid-level,Full-Time,Data Analyst,85000,USD,85000,US,US,L
+2020,Mid-level,Full-Time,Data Analyst,8000,USD,8000,PK,PK,L
+2020,Entry-level,Full-Time,Data Entry-levelgineer,4450000,JPY,41689,JP,JP,S
+2020,Senior-level,Full-Time,Data Entry-levelgineer,100000,EUR,114047,PL,GB,S
+2020,Entry-level,Full-Time,Data SciEntry-leveltist,423000,INR,5707,IN,IN,M
+2020,Mid-level,Full-Time,Data Entry-levelgineer,56000,USD,56000,PT,US,M
+2020,Mid-level,Full-Time,Machine Learning Developer,299000,CNY,43331,CN,CN,M
+2020,Mid-level,Full-Time,Data Analyst,450000,INR,6072,IN,IN,L
+2020,Senior-level,Full-Time,Data Entry-levelgineer,42000,EUR,47899,GR,GR,L
+2020,Mid-level,Full-Time,Data Analyst,98000,USD,98000,US,US,M
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,115000,USD,115000,AE,AE,L
+2020,Executive-level,Full-Time,Data SciEntry-leveltist,325000,USD,325000,US,US,L
+2020,Entry-level,Full-Time,Data SciEntry-leveltist,42000,USD,42000,NL,NL,L
+2020,Senior-level,Full-Time,Data Entry-levelgineer,720000,MXN,33511,MX,MX,S
+2020,Entry-level,Contract,Data Analyst,100000,USD,100000,US,US,L
+2020,Senior-level,Full-Time,Machine Learning Developer,157000,CAD,117104,CA,CA,L
+2020,Mid-level,Full-Time,Data Entry-levelgineer,51999,EUR,59303,DE,DE,S
+2020,Entry-level,Full-Time,Data Entry-levelgineer,70000,USD,70000,US,US,L
+2020,Senior-level,Full-Time,Data SciEntry-leveltist,60000,EUR,68428,GR,US,L
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,450000,USD,450000,US,US,M
+2020,Mid-level,Full-Time,Data Analyst,41000,EUR,46759,FR,FR,L
+2020,Mid-level,Full-Time,Data Entry-levelgineer,65000,EUR,74130,AT,AT,L
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,103000,USD,103000,US,US,L
+2020,Entry-level,Full-Time,Machine Learning Developer,250000,USD,250000,US,US,L
+2020,Entry-level,Full-Time,Data Analyst,10000,USD,10000,NG,NG,S
+2020,Entry-level,Full-Time,Machine Learning Developer,138000,USD,138000,US,US,S
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,45760,USD,45760,PH,US,S
+2020,Executive-level,Full-Time,Data Entry-levelgineer,70000,EUR,79833,ES,ES,L
+2020,Mid-level,Full-Time,Machine Learning Developer,44000,EUR,50180,PT,PT,M
+2020,Mid-level,Full-Time,Data Entry-levelgineer,106000,USD,106000,US,US,L
+2020,Mid-level,Full-Time,Data Entry-levelgineer,88000,GBP,112872,GB,GB,L
+2020,Entry-level,Part-Time,Data Entry-levelgineer,14000,EUR,15966,DE,DE,S
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,60000,GBP,76958,GB,GB,S
+2020,Senior-level,Full-Time,Data Entry-levelgineer,188000,USD,188000,US,US,L
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,105000,USD,105000,US,US,L
+2020,Mid-level,Full-Time,Data Entry-levelgineer,61500,EUR,70139,FR,FR,L
+2020,Entry-level,Full-Time,Data Analyst,450000,INR,6072,IN,IN,S
+2020,Entry-level,Full-Time,Data Analyst,91000,USD,91000,US,US,L
+2020,Entry-level,Full-Time,Data SciEntry-leveltist,300000,DKK,45896,DK,DK,S
+2020,Entry-level,Full-Time,Data Entry-levelgineer,48000,EUR,54742,PK,DE,L
+2020,Senior-level,Freelance,Data Entry-levelgineer,60000,USD,60000,RU,US,S
+2020,Senior-level,Full-Time,Data SciEntry-leveltist,130000,EUR,148261,DE,DE,M
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,34000,EUR,38776,ES,ES,M
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,118000,USD,118000,US,US,M
+2020,Senior-level,Full-Time,Data SciEntry-leveltist,120000,USD,120000,US,US,L
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,138350,USD,138350,US,US,M
+2020,Mid-level,Full-Time,Data Entry-levelgineer,110000,USD,110000,US,US,L
+2020,Mid-level,Full-Time,Data Entry-levelgineer,130800,USD,130800,ES,US,M
+2020,Entry-level,Part-Time,Data SciEntry-leveltist,19000,EUR,21669,IT,IT,S
+2020,Senior-level,Full-Time,Data SciEntry-leveltist,412000,USD,412000,US,US,L
+2020,Senior-level,Full-Time,Machine Learning Developer,40000,EUR,45618,HR,HR,S
+2020,Entry-level,Full-Time,Data SciEntry-leveltist,55000,EUR,62726,DE,DE,S
+2020,Entry-level,Full-Time,Data SciEntry-leveltist,43200,EUR,49268,DE,DE,S
+2020,Senior-level,Full-Time,Data SciEntry-leveltist,190200,USD,190200,US,US,M
+2020,Entry-level,Full-Time,Data SciEntry-leveltist,105000,USD,105000,US,US,S
+2020,Senior-level,Full-Time,Data SciEntry-leveltist,80000,EUR,91237,AT,AT,S
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,55000,EUR,62726,FR,LU,S
+2020,Mid-level,Full-Time,Data SciEntry-leveltist,37000,EUR,42197,FR,FR,S
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,60000,GBP,82528,GB,GB,L
+2021,Executive-level,Full-Time,Data Analyst,150000,USD,150000,IN,US,L
+2021,Executive-level,Full-Time,Data Analyst,235000,USD,235000,US,US,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,45000,EUR,53192,FR,FR,L
+2021,Mid-level,Full-Time,Data Analyst,100000,USD,100000,US,US,M
+2021,Mid-level,Part-Time,Data SciEntry-leveltist,400000,INR,5409,IN,IN,M
+2021,Mid-level,Contract,Data Entry-levelgineer,270000,USD,270000,US,US,L
+2021,Entry-level,Full-Time,Data Analyst,80000,USD,80000,US,US,M
+2021,Senior-level,Full-Time,Data Analyst,67000,EUR,79197,DE,DE,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,140000,USD,140000,US,US,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,68000,CAD,54238,GB,CA,L
+2021,Mid-level,Full-Time,Machine Learning Developer,40000,EUR,47282,ES,ES,S
+2021,Executive-level,Full-Time,Data SciEntry-leveltist,130000,EUR,153667,IT,PL,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,110000,PLN,28476,PL,PL,L
+2021,Entry-level,Full-Time,Data Analyst,50000,EUR,59102,FR,FR,M
+2021,Mid-level,Full-Time,Data Analyst,110000,USD,110000,US,US,L
+2021,Senior-level,Full-Time,Data Analyst,170000,USD,170000,US,US,L
+2021,Senior-level,Full-Time,Data Analyst,80000,USD,80000,BG,US,S
+2021,Senior-level,Full-Time,Data Analyst,75000,EUR,88654,GR,DK,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,65000,EUR,76833,DE,DE,S
+2021,Mid-level,Full-Time,Data Analyst,1450000,INR,19609,IN,IN,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,276000,USD,276000,US,US,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,2200000,INR,29751,IN,IN,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,120000,SGD,89294,SG,SG,L
+2021,Entry-level,Part-Time,Data SciEntry-leveltist,12000,USD,12000,BR,US,S
+2021,Mid-level,Full-Time,Data Analyst,450000,USD,450000,US,US,L
+2021,Entry-level,Full-Time,Data Entry-levelgineer,70000,USD,70000,US,US,M
+2021,Mid-level,Full-Time,Data Entry-levelgineer,81000,EUR,95746,DE,US,S
+2021,Mid-level,Full-Time,Data Analyst,75000,USD,75000,US,US,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,150000,USD,150000,US,US,L
+2021,Mid-level,Full-Time,Data Analyst,11000000,HUF,36259,HU,US,L
+2021,Mid-level,Full-Time,Data Analyst,62000,USD,62000,US,US,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,73000,USD,73000,US,US,L
+2021,Mid-level,Full-Time,Data Analyst,37456,GBP,51519,GB,GB,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,235000,CAD,187442,CA,CA,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,115000,USD,115000,US,US,S
+2021,Senior-level,Full-Time,Data Entry-levelgineer,150000,USD,150000,US,US,M
+2021,Entry-level,Full-Time,Data Entry-levelgineer,2250000,INR,30428,IN,IN,L
+2021,Senior-level,Full-Time,Machine Learning Developer,80000,EUR,94564,DE,DE,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,82500,GBP,113476,GB,GB,M
+2021,Senior-level,Full-Time,Data Entry-levelgineer,75000,GBP,103160,GB,GB,S
+2021,Entry-level,Part-Time,Data SciEntry-leveltist,12000,USD,12000,PK,US,M
+2021,Mid-level,Full-Time,Data Entry-levelgineer,38400,EUR,45391,NL,NL,L
+2021,Entry-level,Full-Time,Machine Learning Developer,225000,USD,225000,US,US,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,50000,USD,50000,NG,NG,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,34000,EUR,40189,GR,GR,M
+2021,Entry-level,Full-Time,Data Analyst,90000,USD,90000,US,US,S
+2021,Mid-level,Full-Time,Data Entry-levelgineer,200000,USD,200000,US,US,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,60000,USD,60000,ES,RO,M
+2021,Senior-level,Full-Time,Data Entry-levelgineer,200000,USD,200000,US,US,M
+2021,Entry-level,Full-Time,Data Analyst,50000,USD,50000,US,US,M
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,80000,GBP,110037,GB,GB,L
+2021,Entry-level,Part-Time,Data Analyst,8760,EUR,10354,ES,ES,M
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,151000,USD,151000,US,US,L
+2021,Senior-level,Full-Time,Machine Learning Developer,120000,USD,120000,US,US,S
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,700000,INR,9466,IN,IN,S
+2021,Entry-level,Full-Time,Machine Learning Developer,20000,USD,20000,IN,IN,S
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,3000000,INR,40570,IN,IN,L
+2021,Entry-level,Full-Time,Machine Learning Developer,100000,USD,100000,IQ,IQ,S
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,42000,EUR,49646,FR,FR,M
+2021,Mid-level,Full-Time,Machine Learning Developer,38400,USD,38400,VN,US,M
+2021,Senior-level,Full-Time,Data Entry-levelgineer,24000,USD,24000,BR,BR,M
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,100000,USD,100000,US,US,S
+2021,Mid-level,Full-Time,Data Analyst,90000,USD,90000,US,US,M
+2021,Mid-level,Full-Time,Data Entry-levelgineer,7000000,JPY,63711,JP,JP,S
+2021,Mid-level,Full-Time,Data Entry-levelgineer,8500000,JPY,77364,JP,JP,S
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,220000,USD,220000,US,US,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,80000,USD,80000,US,US,M
+2021,Mid-level,Full-Time,Data Analyst,135000,USD,135000,US,US,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,240000,USD,240000,US,US,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,150000,USD,150000,US,US,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,82500,USD,82500,US,US,S
+2021,Mid-level,Full-Time,Data Entry-levelgineer,100000,USD,100000,US,US,L
+2021,Senior-level,Full-Time,Machine Learning Developer,70000,EUR,82744,BE,BE,M
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,53000,EUR,62649,FR,FR,M
+2021,Mid-level,Full-Time,Data Entry-levelgineer,90000,USD,90000,US,US,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,153000,USD,153000,US,US,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,160000,USD,160000,BR,US,S
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,168000,USD,168000,JP,JP,S
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,150000,USD,150000,US,US,M
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,95000,CAD,75774,CA,CA,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,13400,USD,13400,UA,UA,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,144000,USD,144000,US,US,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,159500,CAD,127221,CA,CA,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,160000,SGD,119059,SG,IL,M
+2021,Mid-level,Full-Time,Machine Learning Developer,423000,USD,423000,US,US,L
+2021,Senior-level,Full-Time,Data Analyst,120000,USD,120000,US,US,M
+2021,Entry-level,Full-Time,Machine Learning Developer,125000,USD,125000,US,US,S
+2021,Executive-level,Full-Time,Data Analyst,230000,USD,230000,RU,RU,L
+2021,Executive-level,Full-Time,Data SciEntry-leveltist,85000,USD,85000,RU,RU,M
+2021,Mid-level,Full-Time,Data Entry-levelgineer,24000,EUR,28369,MT,MT,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,54000,EUR,63831,DE,DE,L
+2021,Executive-level,Full-Time,Data SciEntry-leveltist,110000,EUR,130026,DE,DE,M
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,165000,USD,165000,US,US,L
+2021,Entry-level,Full-Time,Data Entry-levelgineer,80000,USD,80000,US,US,L
+2021,Executive-level,Full-Time,Data SciEntry-leveltist,250000,USD,250000,US,US,L
+2021,Entry-level,Full-Time,Data Analyst,55000,USD,55000,US,US,S
+2021,Mid-level,Full-Time,Data Entry-levelgineer,150000,USD,150000,US,US,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,170000,USD,170000,US,US,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,60000,GBP,82528,GB,GB,L
+2021,Entry-level,Full-Time,Data Analyst,60000,USD,60000,US,US,S
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,235000,USD,235000,US,US,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,51400,EUR,60757,PT,PT,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,174000,USD,174000,US,US,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,58000,MXN,2859,MX,MX,S
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,30400000,CLP,40038,CL,CL,L
+2021,Entry-level,Full-Time,Machine Learning Developer,81000,USD,81000,US,US,S
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,420000,INR,5679,IN,US,S
+2021,Mid-level,Full-Time,Data Entry-levelgineer,1672000,INR,22611,IN,IN,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,76760,EUR,90734,DE,DE,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,22000,EUR,26005,RO,US,L
+2021,Senior-level,Full-Time,Data Analyst,45000,GBP,61896,GB,GB,L
+2021,Mid-level,Freelance,Machine Learning Developer,12000,USD,12000,PK,PK,M
+2021,Mid-level,Full-Time,Data Entry-levelgineer,4000,USD,4000,IR,IR,M
+2021,Senior-level,Full-Time,Data Analyst,50000,USD,50000,VN,GB,M
+2021,Executive-level,Full-Time,Data SciEntry-leveltist,59000,EUR,69741,FR,ES,S
+2021,Senior-level,Full-Time,Data Entry-levelgineer,65000,EUR,76833,RO,GB,S
+2021,Mid-level,Full-Time,Machine Learning Developer,74000,USD,74000,JP,JP,S
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,152000,USD,152000,US,FR,L
+2021,Entry-level,Full-Time,Machine Learning Developer,21844,USD,21844,CO,CO,M
+2021,Mid-level,Full-Time,Data Entry-levelgineer,18000,USD,18000,MD,MD,S
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,174000,USD,174000,US,US,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,120500,CAD,96113,CA,CA,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,147000,USD,147000,US,US,L
+2021,Entry-level,Full-Time,Data Analyst,9272,USD,9272,KE,KE,S
+2021,Senior-level,Full-Time,Machine Learning Developer,1799997,INR,24342,IN,IN,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,4000000,INR,54094,IN,US,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,90000,USD,90000,US,US,S
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,52000,EUR,61467,DE,AT,M
+2021,Senior-level,Full-Time,Machine Learning Developer,195000,USD,195000,US,US,M
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,32000,EUR,37825,ES,ES,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,50000,USD,50000,FR,US,S
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,160000,USD,160000,US,US,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,69600,BRL,12901,BR,BR,S
+2021,Senior-level,Full-Time,Machine Learning Developer,200000,USD,200000,US,US,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,165000,USD,165000,US,US,M
+2021,Mid-level,Freelance,Data Entry-levelgineer,20000,USD,20000,IT,US,L
+2021,Senior-level,Full-Time,Data Analyst,120000,USD,120000,US,US,L
+2021,Mid-level,Full-Time,Machine Learning Developer,21000,EUR,24823,SI,SI,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,48000,EUR,56738,FR,FR,S
+2021,Mid-level,Full-Time,Data Entry-levelgineer,48000,GBP,66022,HK,GB,S
+2021,Entry-level,Full-Time,Data Entry-levelgineer,435000,INR,5882,IN,CH,L
+2021,Entry-level,Full-Time,Machine Learning Developer,21000,EUR,24823,DE,DE,M
+2021,Senior-level,Full-Time,Data Entry-levelgineer,185000,USD,185000,US,US,L
+2021,Entry-level,Part-Time,Data Entry-levelgineer,180000,DKK,28609,DK,DK,S
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,76760,EUR,90734,DE,DE,L
+2021,Mid-level,Full-Time,Machine Learning Developer,75000,EUR,88654,BE,BE,M
+2021,Senior-level,Full-Time,Data Analyst,140000,USD,140000,US,US,L
+2021,Mid-level,Full-Time,Machine Learning Developer,180000,PLN,46597,PL,PL,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,85000,GBP,116914,GB,GB,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,2500000,INR,33808,IN,IN,M
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,40900,GBP,56256,GB,GB,L
+2021,Senior-level,Full-Time,Machine Learning Developer,225000,USD,225000,US,CA,L
+2021,Executive-level,Contract,Data SciEntry-leveltist,416000,USD,416000,US,US,S
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,110000,CAD,87738,CA,CA,S
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,75000,EUR,88654,DE,DE,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,135000,USD,135000,US,US,L
+2021,Senior-level,Full-Time,Data Analyst,90000,CAD,71786,CA,CA,M
+2021,Entry-level,Full-Time,Data Entry-levelgineer,1200000,INR,16228,IN,IN,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,256000,USD,256000,US,US,S
+2021,Senior-level,Full-Time,Data Entry-levelgineer,200000,USD,200000,US,US,L
+2021,Senior-level,Full-Time,Data Analyst,200000,USD,200000,US,US,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,180000,USD,180000,US,US,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,110000,USD,110000,US,US,S
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,80000,CAD,63810,CA,CA,M
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,39600,EUR,46809,ES,ES,M
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,4000,USD,4000,VN,VN,M
+2021,Entry-level,Full-Time,Data Entry-levelgineer,1600000,INR,21637,IN,IN,M
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,130000,CAD,103691,CA,CA,L
+2021,Mid-level,Full-Time,Data Analyst,80000,USD,80000,US,US,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,110000,USD,110000,US,US,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,165000,USD,165000,US,US,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,1335000,INR,18053,IN,AS,S
+2021,Mid-level,Full-Time,Data Entry-levelgineer,52500,GBP,72212,GB,GB,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,31000,EUR,36643,FR,FR,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,108000,TRY,12103,TR,TR,M
+2021,Senior-level,Full-Time,Data Entry-levelgineer,70000,GBP,96282,GB,GB,L
+2021,Senior-level,Full-Time,Data Analyst,170000,USD,170000,US,US,M
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,115000,USD,115000,US,US,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,90000,USD,90000,US,US,S
+2021,Executive-level,Full-Time,Data Entry-levelgineer,600000,USD,600000,US,US,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,2100000,INR,28399,IN,IN,M
+2021,Mid-level,Full-Time,Data Analyst,93000,USD,93000,US,US,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,125000,CAD,99703,CA,CA,M
+2021,Mid-level,Full-Time,Data Entry-levelgineer,200000,USD,200000,US,US,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,147000,EUR,173762,DE,DE,M
+2021,Senior-level,Full-Time,Machine Learning Developer,185000,USD,185000,US,US,L
+2021,Executive-level,Full-Time,Data SciEntry-leveltist,120000,EUR,141846,DE,DE,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,130000,USD,130000,US,US,L
+2021,Senior-level,Full-Time,Data Analyst,54000,EUR,63831,DE,DE,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,1250000,INR,16904,IN,IN,S
+2021,Senior-level,Full-Time,Machine Learning Developer,4900000,INR,66265,IN,IN,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,21600,EUR,25532,RS,DE,S
+2021,Senior-level,Full-Time,Data Entry-levelgineer,160000,USD,160000,PR,US,S
+2021,Mid-level,Full-Time,Data Entry-levelgineer,93150,USD,93150,US,US,M
+2021,Mid-level,Full-Time,Data Entry-levelgineer,111775,USD,111775,US,US,M
+2021,Mid-level,Full-Time,Data Entry-levelgineer,250000,TRY,28016,TR,TR,M
+2021,Entry-level,Full-Time,Data Entry-levelgineer,55000,EUR,65013,DE,DE,M
+2021,Entry-level,Full-Time,Data Entry-levelgineer,72500,USD,72500,US,US,L
+2021,Senior-level,Full-Time,Data Entry-levelgineer,102000,BRL,18907,BR,BR,M
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,65000,EUR,76833,DE,DE,L
+2021,Entry-level,Full-Time,Machine Learning Developer,85000,USD,85000,NL,DE,S
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,65720,EUR,77684,FR,FR,M
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,100000,USD,100000,US,US,M
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,58000,USD,58000,US,US,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,55000,USD,55000,ES,ES,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,180000,TRY,20171,TR,TR,L
+2021,Entry-level,Full-Time,Data Analyst,50000,EUR,59102,LU,LU,L
+2021,Mid-level,Full-Time,Data Entry-levelgineer,112000,USD,112000,US,US,L
+2021,Entry-level,Full-Time,Data SciEntry-leveltist,100000,USD,100000,JE,CN,L
+2021,Mid-level,Part-Time,Data Entry-levelgineer,59000,EUR,69741,NL,NL,L
+2021,Senior-level,Contract,Data SciEntry-leveltist,105000,USD,105000,US,US,M
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,69999,USD,69999,CZ,CZ,L
+2021,Senior-level,Full-Time,Data SciEntry-leveltist,7000000,INR,94665,IN,IN,L
+2021,Senior-level,Full-Time,Data Analyst,87000,EUR,102839,SI,SI,L
+2021,Mid-level,Full-Time,Data SciEntry-leveltist,109000,USD,109000,US,US,L
+2021,Mid-level,Full-Time,Machine Learning Developer,43200,EUR,51064,IT,IT,L
+2022,Senior-level,Full-Time,Data Entry-levelgineer,135000,USD,135000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,155000,USD,155000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,120600,USD,120600,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,130000,USD,130000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,90000,USD,90000,US,US,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,170000,USD,170000,US,US,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,150000,USD,150000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,102100,USD,102100,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,84900,USD,84900,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,136620,USD,136620,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,99360,USD,99360,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,90000,GBP,117789,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,80000,GBP,104702,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,146000,USD,146000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,123000,USD,123000,US,US,M
+2022,Entry-level,Full-Time,Data Entry-levelgineer,40000,GBP,52351,GB,GB,M
+2022,Senior-level,Full-Time,Data Analyst,99000,USD,99000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,116000,USD,116000,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,106260,USD,106260,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,126500,USD,126500,US,US,M
+2022,Executive-level,Full-Time,Data Entry-levelgineer,242000,USD,242000,US,US,M
+2022,Executive-level,Full-Time,Data Entry-levelgineer,200000,USD,200000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,50000,GBP,65438,GB,GB,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,30000,GBP,39263,GB,GB,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,60000,GBP,78526,GB,GB,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,40000,GBP,52351,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,165220,USD,165220,US,US,M
+2022,Entry-level,Full-Time,Data Entry-levelgineer,35000,GBP,45807,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,120160,USD,120160,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,90320,USD,90320,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,181940,USD,181940,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,132320,USD,132320,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,220110,USD,220110,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,160080,USD,160080,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,180000,USD,180000,US,US,L
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,120000,USD,120000,US,US,L
+2022,Senior-level,Full-Time,Data Analyst,124190,USD,124190,US,US,M
+2022,Executive-level,Full-Time,Data Analyst,130000,USD,130000,US,US,M
+2022,Executive-level,Full-Time,Data Analyst,110000,USD,110000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,170000,USD,170000,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,115500,USD,115500,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,112900,USD,112900,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,90320,USD,90320,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,112900,USD,112900,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,90320,USD,90320,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,165400,USD,165400,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,132320,USD,132320,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,167000,USD,167000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,243900,USD,243900,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,136600,USD,136600,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,109280,USD,109280,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,128875,USD,128875,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,93700,USD,93700,US,US,M
+2022,Executive-level,Full-Time,Data SciEntry-leveltist,224000,USD,224000,US,US,M
+2022,Executive-level,Full-Time,Data SciEntry-leveltist,167875,USD,167875,US,US,M
+2022,Executive-level,Full-Time,Data Analyst,175000,USD,175000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,156600,USD,156600,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,108800,USD,108800,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,95550,USD,95550,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,113000,USD,113000,US,US,L
+2022,Senior-level,Full-Time,Data Analyst,135000,USD,135000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,161342,USD,161342,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,137141,USD,137141,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,167000,USD,167000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,123000,USD,123000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,60000,GBP,78526,GB,GB,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,50000,GBP,65438,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,150000,USD,150000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,211500,USD,211500,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,192400,USD,192400,CA,CA,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,90700,USD,90700,CA,CA,M
+2022,Senior-level,Full-Time,Data Analyst,130000,USD,130000,CA,CA,M
+2022,Senior-level,Full-Time,Data Analyst,61300,USD,61300,CA,CA,M
+2022,Senior-level,Full-Time,Data Analyst,130000,USD,130000,CA,CA,M
+2022,Senior-level,Full-Time,Data Analyst,61300,USD,61300,CA,CA,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,160000,USD,160000,US,US,L
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,138600,USD,138600,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,136000,USD,136000,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,58000,USD,58000,US,US,S
+2022,Executive-level,Full-Time,Data Analyst,135000,USD,135000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,170000,USD,170000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,123000,USD,123000,US,US,M
+2022,Senior-level,Full-Time,Machine Learning Developer,189650,USD,189650,US,US,M
+2022,Senior-level,Full-Time,Machine Learning Developer,164996,USD,164996,US,US,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,50000,EUR,54957,GR,GR,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,50000,EUR,54957,GR,GR,M
+2022,Executive-level,Full-Time,Data Entry-levelgineer,150000,CAD,118187,CA,CA,S
+2022,Senior-level,Full-Time,Data Analyst,132000,USD,132000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,165400,USD,165400,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,208775,USD,208775,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,147800,USD,147800,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,136994,USD,136994,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,101570,USD,101570,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,128875,USD,128875,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,93700,USD,93700,US,US,M
+2022,Executive-level,Full-Time,Machine Learning Developer,6000000,INR,79039,IN,IN,L
+2022,Senior-level,Full-Time,Data Entry-levelgineer,132320,USD,132320,US,US,M
+2022,Entry-level,Full-Time,Machine Learning Developer,28500,GBP,37300,GB,GB,L
+2022,Senior-level,Full-Time,Data Analyst,164000,USD,164000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,155000,USD,155000,US,US,M
+2022,Mid-level,Full-Time,Machine Learning Developer,95000,GBP,124333,GB,GB,M
+2022,Mid-level,Full-Time,Machine Learning Developer,75000,GBP,98158,GB,GB,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,120000,USD,120000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,112900,USD,112900,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,90320,USD,90320,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,145000,USD,145000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,105400,USD,105400,US,US,M
+2022,Mid-level,Full-Time,Machine Learning Developer,80000,EUR,87932,FR,DE,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,90000,GBP,117789,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,215300,USD,215300,US,US,L
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,158200,USD,158200,US,US,L
+2022,Senior-level,Full-Time,Data Entry-levelgineer,209100,USD,209100,US,US,L
+2022,Senior-level,Full-Time,Data Entry-levelgineer,154600,USD,154600,US,US,L
+2022,Senior-level,Full-Time,Data Analyst,115934,USD,115934,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,81666,USD,81666,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,175000,USD,175000,US,US,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,75000,GBP,98158,GB,GB,M
+2022,Mid-level,Full-Time,Data Analyst,58000,USD,58000,US,US,S
+2022,Senior-level,Full-Time,Data Entry-levelgineer,183600,USD,183600,US,US,L
+2022,Mid-level,Full-Time,Data Analyst,40000,GBP,52351,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,180000,USD,180000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,55000,GBP,71982,GB,GB,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,35000,GBP,45807,GB,GB,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,60000,EUR,65949,GR,GR,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,45000,EUR,49461,GR,GR,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,60000,GBP,78526,GB,GB,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,45000,GBP,58894,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,260000,USD,260000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,60000,USD,60000,AR,MX,L
+2022,Mid-level,Full-Time,Data Entry-levelgineer,63900,USD,63900,US,US,M
+2022,Mid-level,Full-Time,Machine Learning Developer,160000,USD,160000,US,US,L
+2022,Mid-level,Full-Time,Machine Learning Developer,112300,USD,112300,US,US,L
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,241000,USD,241000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,159000,USD,159000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,180000,USD,180000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,80000,USD,80000,US,US,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,82900,USD,82900,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,100800,USD,100800,US,US,L
+2022,Mid-level,Full-Time,Data Entry-levelgineer,45000,EUR,49461,ES,ES,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,140400,USD,140400,US,US,L
+2022,Mid-level,Full-Time,Data Analyst,30000,GBP,39263,GB,GB,M
+2022,Mid-level,Full-Time,Data Analyst,40000,EUR,43966,ES,ES,M
+2022,Mid-level,Full-Time,Data Analyst,30000,EUR,32974,ES,ES,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,80000,EUR,87932,ES,ES,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,70000,EUR,76940,ES,ES,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,80000,GBP,104702,GB,GB,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,70000,GBP,91614,GB,GB,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,60000,EUR,65949,ES,ES,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,80000,EUR,87932,GR,GR,M
+2022,Senior-level,Full-Time,Machine Learning Developer,189650,USD,189650,US,US,M
+2022,Senior-level,Full-Time,Machine Learning Developer,164996,USD,164996,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,40000,EUR,43966,GR,GR,M
+2022,Mid-level,Full-Time,Data Analyst,30000,EUR,32974,GR,GR,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,75000,GBP,98158,GB,GB,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,60000,GBP,78526,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,215300,USD,215300,US,US,L
+2022,Mid-level,Full-Time,Data Entry-levelgineer,70000,EUR,76940,GR,GR,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,209100,USD,209100,US,US,L
+2022,Senior-level,Full-Time,Data Entry-levelgineer,154600,USD,154600,US,US,L
+2022,Senior-level,Full-Time,Data Entry-levelgineer,180000,USD,180000,US,US,M
+2022,Entry-level,Full-Time,Data Entry-levelgineer,20000,EUR,21983,PT,PT,L
+2022,Senior-level,Full-Time,Data Entry-levelgineer,80000,USD,80000,US,US,M
+2022,Mid-level,Full-Time,Machine Learning Developer,100000,CAD,78791,CA,CA,M
+2022,Executive-level,Full-Time,Data SciEntry-leveltist,250000,CAD,196979,CA,CA,L
+2022,Mid-level,Full-Time,Machine Learning Developer,120000,USD,120000,US,US,S
+2022,Entry-level,Full-Time,Data Entry-levelgineer,125000,USD,125000,US,US,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,240000,CNY,37236,US,US,L
+2022,Senior-level,Full-Time,Data Entry-levelgineer,105000,USD,105000,US,US,M
+2022,Senior-level,Full-Time,Machine Learning Developer,80000,EUR,87932,DE,DE,M
+2022,Mid-level,Full-Time,Data Analyst,1400000,INR,18442,IN,IN,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,2400000,INR,31615,IN,IN,L
+2022,Mid-level,Full-Time,Machine Learning Developer,53000,EUR,58255,PT,PT,L
+2022,Entry-level,Full-Time,Data Analyst,100000,USD,100000,US,US,L
+2022,Mid-level,Part-Time,Data Entry-levelgineer,50000,EUR,54957,DE,DE,L
+2022,Entry-level,Full-Time,Data SciEntry-leveltist,1400000,INR,18442,IN,IN,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,148000,EUR,162674,DE,DE,M
+2022,Entry-level,Full-Time,Data Entry-levelgineer,120000,USD,120000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,144000,USD,144000,US,US,L
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,104890,USD,104890,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,100000,USD,100000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,140000,USD,140000,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,135000,USD,135000,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,50000,USD,50000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,220000,USD,220000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,140000,USD,140000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,140000,GBP,183228,GB,GB,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,70000,GBP,91614,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,185100,USD,185100,US,US,M
+2022,Senior-level,Full-Time,Machine Learning Developer,220000,USD,220000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,200000,USD,200000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,120000,USD,120000,US,US,M
+2022,Senior-level,Full-Time,Machine Learning Developer,120000,USD,120000,AE,AE,S
+2022,Senior-level,Full-Time,Machine Learning Developer,65000,USD,65000,AE,AE,S
+2022,Executive-level,Full-Time,Data Entry-levelgineer,324000,USD,324000,US,US,M
+2022,Executive-level,Full-Time,Data Entry-levelgineer,216000,USD,216000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,210000,USD,210000,US,US,M
+2022,Senior-level,Full-Time,Machine Learning Developer,120000,USD,120000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,230000,USD,230000,US,US,M
+2022,Entry-level,Part-Time,Data SciEntry-leveltist,100000,USD,100000,DZ,DZ,M
+2022,Mid-level,Freelance,Data SciEntry-leveltist,100000,USD,100000,CA,US,M
+2022,Entry-level,Contract,Machine Learning Developer,29000,EUR,31875,TN,CZ,M
+2022,Senior-level,Full-Time,Data Analyst,200000,USD,200000,MY,US,M
+2022,Mid-level,Full-Time,Data Analyst,75000,USD,75000,CA,CA,S
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,150000,PLN,35590,PL,PL,L
+2022,Senior-level,Full-Time,Machine Learning Developer,100000,CAD,78791,CA,CA,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,100000,USD,100000,BR,US,M
+2022,Mid-level,Full-Time,Machine Learning Developer,153000,USD,153000,US,US,M
+2022,Entry-level,Full-Time,Data Entry-levelgineer,52800,EUR,58035,PK,DE,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,165000,USD,165000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,85000,EUR,93427,FR,FR,L
+2022,Entry-level,Full-Time,Data SciEntry-leveltist,66500,CAD,52396,CA,CA,L
+2022,Senior-level,Full-Time,Machine Learning Developer,57000,EUR,62651,NL,NL,L
+2022,Mid-level,Full-Time,Data Analyst,30000,EUR,32974,EE,EE,S
+2022,Entry-level,Full-Time,Data SciEntry-leveltist,40000,USD,40000,JP,MY,L
+2022,Mid-level,Full-Time,Machine Learning Developer,121000,AUD,87425,AU,AU,L
+2022,Senior-level,Full-Time,Data Entry-levelgineer,115000,USD,115000,US,US,M
+2022,Entry-level,Full-Time,Data SciEntry-leveltist,120000,AUD,86703,AU,AU,M
+2022,Mid-level,Full-Time,Machine Learning Developer,75000,USD,75000,BO,US,L
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,59000,EUR,64849,AT,AT,L
+2022,Entry-level,Full-Time,Data SciEntry-leveltist,120000,USD,120000,US,US,L
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,157000,USD,157000,US,US,L
+2022,Entry-level,Full-Time,Data Entry-levelgineer,150000,USD,150000,AU,AU,S
+2022,Mid-level,Full-Time,Data Analyst,90000,CAD,70912,CA,CA,L
+2022,Entry-level,Full-Time,Data Entry-levelgineer,65000,USD,65000,US,US,S
+2022,Senior-level,Full-Time,Machine Learning Developer,65000,EUR,71444,IE,IE,S
+2022,Entry-level,Full-Time,Data Analyst,20000,USD,20000,PK,PK,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,48000,USD,48000,RU,US,S
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,152500,USD,152500,US,US,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,62000,EUR,68147,FR,FR,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,115000,CHF,122346,CH,CH,L
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,380000,USD,380000,US,US,L
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,88000,CAD,69336,CA,CA,M
+2022,Entry-level,Full-Time,Data Entry-levelgineer,10000,USD,10000,PT,LU,M
+2022,Mid-level,Full-Time,Data Analyst,20000,USD,20000,GR,GR,S
+2022,Senior-level,Full-Time,Data Analyst,405000,USD,405000,US,US,L
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,135000,USD,135000,US,US,L
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,177000,USD,177000,US,US,L
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,78000,USD,78000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,135000,USD,135000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,100000,USD,100000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,90320,USD,90320,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,85000,USD,85000,CA,CA,M
+2022,Mid-level,Full-Time,Data Analyst,75000,USD,75000,CA,CA,M
+2022,Senior-level,Full-Time,Machine Learning Developer,214000,USD,214000,US,US,M
+2022,Senior-level,Full-Time,Machine Learning Developer,192600,USD,192600,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,266400,USD,266400,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,213120,USD,213120,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,112900,USD,112900,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,155000,USD,155000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,141300,USD,141300,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,102100,USD,102100,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,115934,USD,115934,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,81666,USD,81666,US,US,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,206699,USD,206699,US,US,M
+2022,Mid-level,Full-Time,Data Entry-levelgineer,99100,USD,99100,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,130000,USD,130000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,115000,USD,115000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,110500,USD,110500,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,130000,USD,130000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,99050,USD,99050,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,160000,USD,160000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,205300,USD,205300,US,US,L
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,140400,USD,140400,US,US,L
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,176000,USD,176000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,144000,USD,144000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,200100,USD,200100,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,160000,USD,160000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,145000,USD,145000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,70500,USD,70500,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,205300,USD,205300,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,140400,USD,140400,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,205300,USD,205300,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,184700,USD,184700,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,175100,USD,175100,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,140250,USD,140250,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,116150,USD,116150,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,54000,USD,54000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,170000,USD,170000,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,50000,GBP,65438,GB,GB,M
+2022,Senior-level,Full-Time,Data Analyst,80000,USD,80000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,140000,USD,140000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,210000,USD,210000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,140000,USD,140000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,100000,USD,100000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,69000,USD,69000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,210000,USD,210000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,140000,USD,140000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,210000,USD,210000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,150075,USD,150075,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,100000,USD,100000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,25000,USD,25000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,126500,USD,126500,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,106260,USD,106260,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,220110,USD,220110,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,160080,USD,160080,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,105000,USD,105000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,110925,USD,110925,US,US,M
+2022,Mid-level,Full-Time,Data Analyst,35000,GBP,45807,GB,GB,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,140000,USD,140000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,99000,USD,99000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,60000,USD,60000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,192564,USD,192564,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,144854,USD,144854,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,230000,USD,230000,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,150000,USD,150000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,150260,USD,150260,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,109280,USD,109280,US,US,M
+2022,Senior-level,Full-Time,Data SciEntry-leveltist,210000,USD,210000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,170000,USD,170000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,160000,USD,160000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,130000,USD,130000,US,US,M
+2022,Entry-level,Full-Time,Data Analyst,67000,USD,67000,CA,CA,M
+2022,Entry-level,Full-Time,Data Analyst,52000,USD,52000,CA,CA,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,154000,USD,154000,US,US,M
+2022,Senior-level,Full-Time,Data Entry-levelgineer,126000,USD,126000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,129000,USD,129000,US,US,M
+2022,Senior-level,Full-Time,Data Analyst,150000,USD,150000,US,US,M
+2022,Mid-level,Full-Time,Data SciEntry-leveltist,200000,USD,200000,IN,US,L
