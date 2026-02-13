@@ -27,8 +27,7 @@ Large companies offer higher average pay.
 Certain locations show higher salary concentration.
 
 📷 Dashboard Preview
-![Image Alt]()
-
+![Image Alt](https://github.com/pawan1648/Job-Salary-Analysis-Dashboard/blob/main/Job%20Salary%20Analysis%20Dashboard.png)
 
 🚀 Author
 Pawan Kumar
